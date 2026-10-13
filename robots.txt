@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-42348777eb.go30a.cn/sitemap.xml
